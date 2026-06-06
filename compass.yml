@@ -1,0 +1,8 @@
+name: concourse-harbor-resource
+id: ari:cloud:compass:4337fc0d-aa55-4ff9-bd75-ef7117ff9381:component/4c6fdffe-fa4a-46ef-9e6f-a1aa05480c89/d25876f6-093d-40f2-923e-6325f4b11ea5
+configVersion: 1
+typeId: OTHER
+ownerId: ari:cloud:identity::team/7ade0a04-a7c2-4ee8-b8a6-0892b895f988 # #100-Infrastructure
+links:
+  - type: REPOSITORY
+    url: https://github.com/EENCloud/concourse-harbor-resource
